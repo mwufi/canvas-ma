@@ -2,7 +2,9 @@
 
 Look at `drawGridXOR`!
 
-<img src="https://media.giphy.com/media/YUIbqiKqKv2kUdWQX1/giphy.gif" width="80%">
+<div>
+  <img src="https://media.giphy.com/media/YUIbqiKqKv2kUdWQX1/200w_d.gif" width="80%">
+ </div>
 
 Featuring:
 
