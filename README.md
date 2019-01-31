@@ -4,6 +4,11 @@ Look at `drawGridXOR`!
 
 <img src="giphy.gif">
 
+Screenshots:
+
+- <img src="grid1.png" width="400px">
+- <img src="xor1.png" width="400px">
+
 Featuring:
 
 - perlin noise
